@@ -1,15 +1,20 @@
 ### Hi, I'm Agustin Vergara<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-I'm an Information Systems Engineering student passionate about technology and continuous learning.
+I'm an Information Systems Engineering student passionate about technology, software development, and continuous learning.
+
 Currently, I'm:
 
-📌 Learning Angular to enhance my front-end skills.
+📌 Deepening my knowledge in Java and Spring Boot to strengthen my back-end development skills.
 
-🔄 Deepening my knowledge in Java and Spring Boot to strengthen my back-end development expertise.
+🎨 Continuing to develop my front-end skills with Angular and TypeScript.
 
-🧩 Expanding my understanding of business processes and developing my skills in functional analysis.
+🐳 Learning Docker and containerization, with a focus on understanding how applications are packaged, deployed, and managed.
 
-I'm highly interested in roles related to Business Analysis, Functional Analysis, and Process Optimization, where I can combine my technical background with problem-solving and analytical skills to deliver efficient solutions.
+⚙️ Exploring DevOps practices, including deployment, automation, CI/CD, and cloud-based environments.
+
+🔄 Building and deploying full-stack applications while strengthening my knowledge of Git, GitHub, databases, and software development practices.
+
+I'm particularly interested in software development and DevOps roles, where I can combine my programming background, problem-solving skills, and continuous learning mindset to build, deploy, and improve reliable software solutions.
 
 #### 🔧 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
