@@ -12,7 +12,6 @@ Currently, I'm:
 
 - Building and deploying full-stack applications while strengthening my knowledge of Git, GitHub, databases, and software development practices.
 
-I'm particularly interested in software development and DevOps roles, where I can combine my programming background, problem-solving skills, and continuous learning mindset to build, deploy, and improve reliable software solutions.
 
 #### 🔧 Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
